@@ -1,4 +1,4 @@
-# Exoplanet-Transit-Simylation
+# Exoplanet-Transit-Simulation
 A Python-based tool that simulates the Transit Method of exoplanet detection. This project models the "dip" in a star's brightness as a planet passes in front of it, producing a light curve that can be used to determine the planet's size relative to its host star.
 
 # 🚀 Features
@@ -34,5 +34,11 @@ the script generates a light curve showing the transit of a Jupiter-like planet 
 
 **Physics Note**
 the depth of the dip in the graph is (2.25%) for the Jupiter and Sun example is exactly how NASA discovers the radius of planets thousands of light-years away!
+
+
+# References
+NASA’s Exoplanet Exploration: <a href ="https://www.google.com/search?q=https://exoplanets.nasa.gov/search-for-exoplanets/transit/"> The Transit Method </a>
+The Planetary Society: <a href = "https://www.planetary.org/articles/how-to-search-for-exoplanets"> How to Search for Exoplanets</a>
+
 
  
